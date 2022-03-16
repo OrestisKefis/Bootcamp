@@ -1,2 +1,2 @@
-# Myrepo
-My repository description
+# Bootcamp
+This repo is for bootcamp exercises
